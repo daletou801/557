@@ -1,6 +1,6 @@
 # 0085
 
-**若需部署 0085，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
+**若需部署 0085，请转到 [vless](https://github.com/bclswl0827/666-heroku/tree/vless) 分支。**
 
 ## 概述
 
