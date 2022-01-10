@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Global variables
-DIR_CONFIG="/etc/v2ray"
+DIR_CONFIG="/etc/666y"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
